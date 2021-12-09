@@ -3,4 +3,6 @@ Git is free softwarE.
 Test
 Git has a mutable index called stage.
 Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
+XXXX
 
