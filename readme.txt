@@ -10,5 +10,9 @@ XXXX
 =======
 Creating a new branch is quick and simple
 Creating a new branch is quick
+<<<<<<< HEAD
 XXX
 >>>>>>> 27c5e13 (add merge)
+=======
+XXXasfasfa
+>>>>>>> 481bf37 (fix bug 101)
